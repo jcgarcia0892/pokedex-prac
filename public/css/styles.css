@@ -1,0 +1,10 @@
+html body {
+    min-height: 100dvh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black;
+    color: #f7f7f7;
+}
+
+h1 {
+    font-size: 32px;
+}
